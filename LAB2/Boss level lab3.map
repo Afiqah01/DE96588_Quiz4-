@@ -1,0 +1,46 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Tue Oct 06 20:51:17 2020
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000004
+                   .org_2       code   0x000008    program   0x000002
+                   .org_3       code   0x000018    program   0x000222
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000003      
+                            0x000008    0x000009      
+                            0x000018    0x000239      
+            552 out of 33048 program addresses used, program memory utilization is 1%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   AGAIN1   0x00003c    program     static C:\Users\ADMIN\OneDrive\Documents\LAB2\Boss level lab3.asm
+                   AGAIN2   0x000040    program     static C:\Users\ADMIN\OneDrive\Documents\LAB2\Boss level lab3.asm
+                    Blink   0x000024    program     static C:\Users\ADMIN\OneDrive\Documents\LAB2\Boss level lab3.asm
+                    DELAY   0x000038    program     static C:\Users\ADMIN\OneDrive\Documents\LAB2\Boss level lab3.asm
+                      Led   0x00002e    program     static C:\Users\ADMIN\OneDrive\Documents\LAB2\Boss level lab3.asm
+                    start   0x00001a    program     static C:\Users\ADMIN\OneDrive\Documents\LAB2\Boss level lab3.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    start   0x00001a    program     static C:\Users\ADMIN\OneDrive\Documents\LAB2\Boss level lab3.asm
+                    Blink   0x000024    program     static C:\Users\ADMIN\OneDrive\Documents\LAB2\Boss level lab3.asm
+                      Led   0x00002e    program     static C:\Users\ADMIN\OneDrive\Documents\LAB2\Boss level lab3.asm
+                    DELAY   0x000038    program     static C:\Users\ADMIN\OneDrive\Documents\LAB2\Boss level lab3.asm
+                   AGAIN1   0x00003c    program     static C:\Users\ADMIN\OneDrive\Documents\LAB2\Boss level lab3.asm
+                   AGAIN2   0x000040    program     static C:\Users\ADMIN\OneDrive\Documents\LAB2\Boss level lab3.asm
+
+
